@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TssUtspb9yfrEtad3rrFwFYp1ggaYQKP2yTllt79+a4=",
+  "Source": "IdentityServerPolicyBasedAuth",
+  "BasePath": "_content/IdentityServerPolicyBasedAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
