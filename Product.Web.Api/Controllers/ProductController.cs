@@ -20,7 +20,6 @@ public class ProductController: ControllerBase
     }
 
     [HttpGet]
-    [Authorize]
     [Route("products")]
     public async Task<IActionResult> GetProducts()
     {
